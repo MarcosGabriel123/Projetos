@@ -1,6 +1,6 @@
 # Single Page CV
 
-Projeto desenvolvido em HTML e CSS.
+Projeto desenvolvido como parte do Roadmap.sh.
 
 🔗 Link do projeto:
-https://marcosgabriel123.github.io/Projetos/
+https://roadmap.sh/projects/single-page-cv
