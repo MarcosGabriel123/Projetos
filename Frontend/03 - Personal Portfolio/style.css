@@ -1,0 +1,22 @@
+header {
+    display: flex; align-items: center; display: flex;
+    flex-direction: column;
+}
+/* div {
+    display: flex; align-items: center; gap: 12px;
+} */
+.menu a {
+    text-decoration: none;
+    color: #000;
+    margin: 0 8px;
+}
+
+.menu a::after {
+    content: "/";
+    margin-left: 10px;
+    color: 555;
+}
+
+.menu a:last-child::after {
+    content: "";
+}
