@@ -52,3 +52,40 @@ body {
     gap: 10px;
 }
 
+/* Work Experience */
+.work_experience {
+    text-align: left;
+    margin-left: 25px;
+    padding: 1px;
+}
+.work_experience span {
+    color: blue;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+/* Education */
+.education p {
+    text-align: left;
+    margin-left: 25px;
+    padding: 1px;
+}
+/* Reviews From my Teachers */
+.reviews {
+
+}
+.reviews_p1{
+    text-align: left;
+    margin-left: 25px;
+    padding: 1px;
+}
+.reviews_p2 {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 25px;
+    padding: 1px;
+    color: gray;
+    margin-bottom: 10px;
+}
