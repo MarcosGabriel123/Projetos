@@ -89,3 +89,12 @@ body {
     color: gray;
     margin-bottom: 10px;
 }
+
+/* Media Queries */
+@media (min-width: 1200px) {
+    .menu{
+        justify-content: center;
+        display: flex;
+        gap: 150px;
+    }
+}
